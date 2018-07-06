@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spingarr">
+        <item>空气温度</item>
+        <item>空气湿度</item>
+        <item>二氧化碳</item>
+        <item>光照强度</item>
+        <item>PM2.5</item>
+    </string-array>
+    <string-array name="selectTime">
+        <item>3/m</item>
+        <item>5/m</item>
+    </string-array>
+    <string-array name="timeOrder">
+        <item>时间升序</item>
+        <item>时间降序</item>
+    </string-array>
+    <string-array name="carnum">
+        <item>1号小车</item>
+        <item>2号小车</item>
+        <item>3号小车</item>
+</string-array>
+</resources>
